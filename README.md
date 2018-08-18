@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+=======
+# cacti
+cacti hasil modifikasi theme paw dan plugin monitor device
+-----------------------------------------------------------------------------
 # Cacti <sup>TM</sup>
 [![Build Status - Develop](https://travis-ci.org/Cacti/cacti.svg?branch=develop)](https://travis-ci.org/Cacti/cacti)
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
@@ -184,9 +187,3 @@ Several JavaScript based HTML5 Charting packages have been included in Cacti in 
 
 For developers using the Cacti framework, it is important to note that additional controls on logging have been added.  Debug logging can now be controlled at not only a global level, but now per plugin, per device and even per file.
 
-
-
-=======
-# cacti
-cacti hasil modifikasi theme paw dan plugin monitor device
->>>>>>> 778ff9e9b74b1969c00c8fc523c325e109640ecc
