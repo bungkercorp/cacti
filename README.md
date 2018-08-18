@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cacti <sup>TM</sup>
 [![Build Status - Develop](https://travis-ci.org/Cacti/cacti.svg?branch=develop)](https://travis-ci.org/Cacti/cacti)
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
@@ -185,3 +186,7 @@ For developers using the Cacti framework, it is important to note that additiona
 
 
 
+=======
+# cacti
+cacti hasil modifikasi theme paw dan plugin monitor device
+>>>>>>> 778ff9e9b74b1969c00c8fc523c325e109640ecc
