@@ -1,5 +1,6 @@
 # cacti
-cacti hasil modifikasi theme paw dan plugin monitor device
+cacti hasil modifikasi theme paw dan plugin monitor device.khusus di pakai sendiri saja sih :)
+
 -----------------------------------------------------------------------------
 # Cacti <sup>TM</sup>
 [![Build Status - Develop](https://travis-ci.org/Cacti/cacti.svg?branch=develop)](https://travis-ci.org/Cacti/cacti)
